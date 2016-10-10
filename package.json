@@ -1,0 +1,17 @@
+{
+  "name": "imonit",
+  "version": "0.2.0",
+  "description": "I'm on it, let's just do it once",
+  "main": "index.js",
+  "bin": "bin/imonit",
+  "author": "Vadim Ogievetsky",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "index.js"
+  ],
+  "dependencies": {
+    "shelljs": "^0.7.4",
+    "yargs": "^6.0.0"
+  }
+}
